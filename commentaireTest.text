@@ -1,0 +1,8 @@
+Test n°31 => ("hola busco gare") => PASSE
+Test n° 34 => PASSE car gare fait parti de F1 F2 F3 donc pas de changement de langues. 
+Test n° 35 => PASSE car pas de changement de langue pour gare (F1 F2 F3)
+Test n° 37 => PASSE PAS car il passe a langue suivante mais ne reconnait aps la nouvelle langue ( nextLangue)
+Test n°38 => quand on tape si quand on est locké dans italien, il reconnait une adresse (avec la tolérance aux fautes)
+Test n°42 => PASSE 
+Pour le choix des numéro, il faut juste taper un numéro et non "je choisi le 3"
+
